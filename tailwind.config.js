@@ -73,6 +73,7 @@ module.exports = {
 				},
 			},
 			fontFamily: {
+				lex: ['var(--lexend-font)'],
 				display: ['var(--lexend-font)'],
 				sans: ['var(--atkinson-font)', ...fontFamily.sans],
 			},

@@ -1,9 +1,9 @@
 .hljs {
+	@apply bg-gondola;
 	display: block;
 	overflow-x: auto;
 	padding: 0.5em;
 	color: #e4f0fb;
-	background-color: var(--r-background-color);
 }
 
 .hljs-keyword,

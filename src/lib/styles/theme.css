@@ -6,10 +6,8 @@
 :root {
 	--atkinson-font: 'Atkinson Hyperlegible', sans-serif;
 	--lexend-font: 'Lexend Variable';
-	--r-background-color: hsl(226 19% 13%);
 	--r-main-font: 'Atkinson Hyperlegible';
 	--r-main-font-size: 42px;
-	--r-main-color: hsl(226 19% 98%);
 	--r-heading-font: 'Lexend Variable';
 	--r-code-font: 'JetBrains Mono Variable';
 	--r-link-color: hsl(180 100% 50%);
@@ -21,14 +19,12 @@
 }
 
 .reveal-viewport {
-	background-color: var(--r-background-color);
+	@apply bg-gondola;
 }
 
 .reveal {
-	color: var(--r-main-color);
-	font-family: var(--r-main-font);
+	@apply text-alto font-sans;
 	font-size: var(--r-main-font-size);
-	font-weight: normal;
 }
 
 .reveal pre {
@@ -127,4 +123,13 @@
 
 .reveal .progress {
 	color: var(--r-link-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@apply leading-snug;
 }
