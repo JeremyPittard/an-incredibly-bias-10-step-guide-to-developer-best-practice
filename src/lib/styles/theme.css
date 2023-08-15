@@ -134,6 +134,10 @@ h6 {
 	@apply leading-snug font-display;
 }
 
+h2 {
+	text-transform: capitalize;
+}
+
 ul {
 	list-style-type: square !important;
 }
