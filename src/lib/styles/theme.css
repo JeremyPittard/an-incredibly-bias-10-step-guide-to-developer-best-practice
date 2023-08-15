@@ -131,5 +131,17 @@ h3,
 h4,
 h5,
 h6 {
-	@apply leading-snug;
+	@apply leading-snug font-display;
+}
+
+ul {
+	list-style-type: square !important;
+}
+
+li {
+	text-transform: lowercase;
+}
+
+li::marker {
+	@apply text-neon-pink;
 }

@@ -14,6 +14,7 @@
 	import Framework from './slides/framework.svelte'
 	import Colab from './slides/colab.svelte'
 	import Test from './slides/test.svelte'
+	import OutroSlide from './slides/outro-slide.svelte'
 </script>
 
 <Presentation>
@@ -31,4 +32,5 @@
 	<Framework />
 	<Colab />
 	<Test />
+	<OutroSlide />
 </Presentation>

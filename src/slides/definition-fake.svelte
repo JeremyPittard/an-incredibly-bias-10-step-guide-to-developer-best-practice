@@ -9,7 +9,7 @@
 				Best Practice (noun): <br />
 			</h2>
 			<p class="px-4 py-3">
-				A trump card used to end discussion and for the user to get their way
+				A trump card used to end a discussion and for the user to get their way
 				without explaining what they mean or why they are doing it.
 			</p>
 		</blockquote>
