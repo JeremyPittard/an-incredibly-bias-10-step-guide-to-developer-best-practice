@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-	base: 'an-incredibly-bias-10-step-guide-to-developer-best-practice',
+	base: '/an-incredibly-bias-10-step-guide-to-developer-best-practice/',
 	plugins: [svelte()],
 	resolve: {
 		alias: {
