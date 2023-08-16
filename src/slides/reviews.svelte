@@ -15,6 +15,7 @@
 		<li class="fragment">
 			Break down large reviews into hour/400 word chunks.
 		</li>
+		<li class="fragment">Write constructive feed back/ask questions.</li>
 		<li class="fragment">Don't rush.</li>
 		<li class="fragment">Create a positive culture.</li>
 	</ul>
