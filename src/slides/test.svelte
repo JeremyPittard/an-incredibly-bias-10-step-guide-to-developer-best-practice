@@ -17,7 +17,7 @@
 		<li class="fragment">Regression Testing.</li>
 		<li class="fragment">Exploratory Testing.</li>
 		<li class="fragment">Mocking and Stubbing.</li>
-		<li class="fragment">Continuous Integration and Continuous Deploymen.</li>
+		<li class="fragment">Continuous Integration and Continuous Deployment.</li>
 		<li class="fragment">Performance and Security Testing.</li>
 		<li class="fragment">Collaboration.</li>
 		<li class="fragment">Test Data Management.</li>
